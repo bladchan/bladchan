@@ -12,6 +12,12 @@
 * 模糊测试工具的改进
 * 帮开源项目修bug
 
+#### :beetle:水的一些CVEs
+|  CVE   |  项目  |
+|  ----  |  ----  |
+| [CVE-2022-40922](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-40922)  |  [LIEF](https://github.com/lief-project/LIEF)  |
+| [CVE-2022-40923](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-40923)  |  [LIEF](https://github.com/lief-project/LIEF)  |
+
 #### :bulb:目标
 理想：
 * 直面自己内心的恶，放大心中善。温暖自己，照亮他人:fire:
