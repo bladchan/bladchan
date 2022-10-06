@@ -32,6 +32,8 @@
 ---
 ![Visitor Count](https://profile-counter.glitch.me/bladchan/count.svg)
 
+🤫 99.99%的自浏览次数
+
 <!--
 **bladchan/bladchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
