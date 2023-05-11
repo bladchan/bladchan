@@ -19,6 +19,9 @@
 | [CVE-2022-40923](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-40923)  |  [LIEF](https://github.com/lief-project/LIEF)  |
 | [CVE-2022-43171](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-43171)  |  [LIEF](https://github.com/lief-project/LIEF)  |
 | [CVE-2022-43172](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-43172)  |  [LIEF](https://github.com/lief-project/LIEF)  |
+| [CVE-2023-31991](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-31991)  |  [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)  |
+| [CVE-2023-31992](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-31992)  |  [libfyaml](https://github.com/pantoniou/libfyaml)  |
+| [CVE-2023-31993](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-31993)  |  [libfyaml](https://github.com/pantoniou/libfyaml)  |
 
 #### :bulb:目标
 理想：
