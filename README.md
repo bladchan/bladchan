@@ -22,6 +22,7 @@
 | [CVE-2023-31991](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-31991)  |  [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)  |
 | [CVE-2023-31992](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-31992)  |  [libfyaml](https://github.com/pantoniou/libfyaml)  |
 | [CVE-2023-31993](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-31993)  |  [libfyaml](https://github.com/pantoniou/libfyaml)  |
+| [CVE-2024-4568](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-4568) | [xpdf](https://forum.xpdfreader.com/viewtopic.php?t=43728) |
 
 #### 💡 目标
 理想：
